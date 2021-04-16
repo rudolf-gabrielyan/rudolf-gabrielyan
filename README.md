@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rudolf-gabrielyan
-- 👀 I’m interested in Web and Mobile development and innovative technologies
+- 👀 I’m interested in Web and Mobile development and AI
 - 🌱 I’m currently learning ReactNative for app development
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: 
